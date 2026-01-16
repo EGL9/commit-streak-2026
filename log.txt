@@ -34,3 +34,4 @@ commit 32 - 2026-01-15 23:20:12 - fix: ajuste menor
 commit 33 - 2026-01-15 23:20:14 - docs: nota diaria
 commit 34 - 2026-01-15 23:20:15 - chore: actualización automática
 commit 35 - 2026-01-15 23:20:17 - fix: ajuste menor
+commit 36 - 2026-01-15 23:20:18 - refactor: limpieza
