@@ -85,3 +85,4 @@ commit 83 - 2026-01-15 23:21:30 - fix: ajuste menor
 commit 84 - 2026-01-15 23:21:31 - refactor: limpieza
 commit 85 - 2026-01-15 23:21:33 - docs: nota diaria
 commit 86 - 2026-01-15 23:21:34 - test: prueba rápida
+commit 87 - 2026-01-15 23:21:36 - refactor: limpieza
